@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="s_nombre">Nombre completo</string>
+    <string name="s_fecha">Fecha</string>
+    <string name="s_telefono">Telefono</string>
+    <string name="s_email">Email</string>
+    <string name="s_descripcion">Descripcion de Contacto</string>
+    <string name="s_btn_siguiente">Siguiente</string>
+    <string name="s_tv_confirmar_datos">Confirmar Datos</string>
+    <string name="s_btn_editar">Editar Datos</string>
+    <string name="s_fecha_nacimeinto">Fecha Nacimiento: </string>
+    <string name="s_Tel">Tel. </string>
+    <string name="s_email_confirmar">Email: </string>
+    <string name="s_descripcion_confirma">Descripcion:</string>
+</resources>
